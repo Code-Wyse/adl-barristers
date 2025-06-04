@@ -1,0 +1,193 @@
+<!doctype html>
+<html lang="en-GB">
+
+
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, shrink-to-fit=no" />
+<title>John Kelsey Fry KC - Who We Are - Cloth Fair Chambers</title>
+<meta name="description" content="Who We Are - John Kelsey Fry Kc: Cloth Fair Chambers is a bespoke set of Chambers based in London." />
+<?php include_once("includes/head.php"); ?>
+</head>
+
+<body>
+
+<?php include_once("includes/header.php"); ?>
+
+<div class="main" id="main">
+
+
+
+
+<div class="py-4 d-none d-md-block"></div>
+
+
+
+
+
+<div class="container">
+<div class="row">
+
+    <div class="col-6 col-md-4 col-lg-3 ">
+        <div id="sticker">
+        	<div class="py-4"></div>
+            <div class="reveal reveal-h1">
+            <h1 class="txt-right-md">John Kelsey-Fry KC<strong class="grower"></strong></h1> 
+            </div>
+            
+            <p class="pt-4"><img src="../img/upload/people_2_1.jpg" class="img-fluid loading" alt="John Kelsey-Fry KC" /></p>
+            
+            
+            
+            <div class="pt-4"></div>
+        
+        </div>
+    </div>
+
+    <div class="col-12 col-md-7 offset-md-1 col-xl-6">
+    
+    	<div class="py-4 d-none d-md-block"></div>
+        
+        
+        <div class="row">
+        
+        	<div class="col-12 col-md-3 order-md-last">
+            <div class="reveal reveal-p-1 link nav-people">
+            <p><a href="/who-we-are-rhys-meggy/"><i class="fa fa-angle-left"></i></a><a href="/who-we-are-nicholas-purnell-kc/"><i class="fa fa-angle-right"></i></a></p>
+            </div>
+            </div>
+            
+            <div class="col-12 col-md-9 order-md-first">
+            <div class="reveal reveal-h3">
+            <h3 class="mb-3">Called to the Bar - 1978  <br /> Silk - 2000</h3>
+            </div>
+            </div>
+        
+        </div>
+        
+        <div class="reveal reveal-p-1">
+        <p><em>&ldquo;The best advocate in the land&rdquo;</em></p>
+
+<p><em>-&nbsp;</em>Chambers and Partners</p>
+
+<p><em>&quot;Probably the leading criminal advocate in London. Great with clients and a real pleasure to work with.&quot;</em></p>
+
+<p>- Legal 500</p>
+
+<p><em>&ldquo;He&#39;s got to the best trial lawyer in the country. I&#39;ve done various cases with him where the jury is spellbound by him. He&#39;s incredibly clever and magical in court&rdquo;</em></p>
+
+<p>- Chambers &amp; Partners High Net Worth Guide</p>
+
+<p>John Kelsey-Fry KC is Head of Cloth Fair Chambers. He is widely recognised as one of the leading silks at the Criminal Bar. He is outstanding in front of a jury, has exceptional advocacy skills and his wealth of experience is almost unparalleled. As one commentator says, <em>&ldquo;</em>There is rarely a high-profile criminal case where he is not instructed, and his level of commitment and can-do approach is inspirational&rdquo;.</p>
+
+<p>John is particularly sought after in areas of business and financial crime where his criminal expertise is matched by his commercial understanding and his strategic vision. He is exemplary at advising boards and individuals alike.</p>
+
+<p>He is also known for high-profile general crime and is often cited for his work involving defamation where his cross-examination skills have proved game-changing. Further, he is commended for his work in the sports sector, having a wide range of experience of sporting and regulatory tribunals.</p>
+
+<p><strong>Examples of recent cases </strong></p>
+
+<p>Represented Natwest in the first ever criminal prosecution by the Financial Conduct Authority (FCA) of a financial institution under anti-money laundering laws in the UK.</p>
+
+<p>SFO v Barclays (winner &ndash; Most Important Court Case 2020, GIR). For the former head of investment banking in the Middle-East, acquitted of all charges re multi-billion pound capital raise in 2008 following a five-month trial at the Central Criminal Court.</p>
+
+<p>Advised individuals in relation to a number of SFO investigations including ENRC, Balli and Unaoil as well as advising a Premier League Football Club in relation to an ongoing HMRC investigation.</p>
+
+<p>Other notable instructions in recent years include:</p>
+
+<ul>
+	<li>HKSAR &ndash; v - Kwok: Successfully defended the property tycoon, the only defendant to be acquitted in Hong Kong&rsquo;s largest ever graft case.</li>
+	<li>R -v- Olympus Corporation: acted for the company in securing a full acquittal regarding Companies Act charges brought by the SFO&nbsp;</li>
+	<li>R -v- W: Successfully defended the CEO of a raw materials company charged by the SFO with conspiracy to defraud</li>
+	<li>R -v- Huhne: Represented the former Energy Secretary charged with perverting the course of justice</li>
+	<li>R -v- C: Successfully represented the former Director of iSoft in criminal and regulatory proceedings</li>
+</ul>
+
+        </div>
+        
+        
+        <div class="reveal reveal-p-1">
+        <p class="link"><a href="/who-we-are-john-kelsey-fry-kc.pdf" target="_blank" onclick="this.href=this.href+'?t=202306152120'">Download CV as a PDF</a></p>
+        </div>
+        
+
+        
+        <div class="reveal reveal-p-1">
+        <p class="link"><a href="/who-we-are-../privacy/">Read John's Data Protection Privacy Notice</a></p>
+        </div>
+        
+        
+    
+    </div>
+
+</div>
+</div>
+
+
+<div class="py-5"></div>
+
+
+
+
+
+
+<script>
+
+var h1 = {
+duration: 1000,
+delay: 0,
+distance: '0',
+scale: 1
+}
+var h3 = {
+duration: 2000,
+delay: 500,
+distance: '20px',
+}
+
+var block1 = {
+duration: 2000,
+delay: 1000,
+distance: '20px'
+}
+
+
+window.sr = ScrollReveal({ reset: false, useDelay: 'onload' });
+
+function goWhenSafe() {
+sr.reveal(".reveal-h1", h1)
+sr.reveal(".reveal-h3", h3)
+sr.reveal(".reveal-p-1 p", block1, 200)
+sr.reveal(".reveal-p-1 ul", block1, 200)
+sr.reveal(".reveal-p-footer", block1, 100)
+}
+
+
+$(document).ready(function() {
+	//create top sticky
+	var sticky = new Waypoint.Sticky({
+		element: $('#sticker')[0],
+		stuckClass: 'stuck-top'
+	})
+});
+
+</script>
+
+
+
+</div>
+
+
+<div id="mt-footer" class="d-none d-md-block"></div>
+<div class="container footer" id="footer">
+<div class="txt-right d-none d-md-block reveal reveal-p-footer privacy">
+<p class="link mb-0"><a href="/who-we-are-../privacy/">Data Protection Privacy Notice</a> | <a href="/who-we-are-../cookie-policy/">Cookie Policy</a></p>
+</div>
+<div class="pt-2"></div>
+</div>
+
+
+
+</body>
+
+<!-- Mirrored from www.clothfairchambers.com/who-we-are-john-kelsey-fry-kc by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 15 Jun 2023 20:56:12 GMT -->
+</html>

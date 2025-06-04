@@ -1,0 +1,221 @@
+<!doctype html>
+<html lang="en-GB">
+
+
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, shrink-to-fit=no" />
+<title>Rhys Meggy - Who We Are - Cloth Fair Chambers</title>
+<meta name="description" content="Who We Are - Rhys Meggy: Cloth Fair Chambers is a bespoke set of Chambers based in London." />
+<?php include_once("includes/head.php"); ?>
+</head>
+
+<body>
+
+<?php include_once("includes/header.php"); ?>
+
+<div class="main" id="main">
+
+
+
+
+<div class="py-4 d-none d-md-block"></div>
+
+
+
+
+
+<div class="container">
+<div class="row">
+
+    <div class="col-6 col-md-4 col-lg-3 ">
+        <div id="sticker">
+        	<div class="py-4"></div>
+            <div class="reveal reveal-h1">
+            <h1 class="txt-right-md">Rhys Meggy<strong class="grower"></strong></h1> 
+            </div>
+            
+            <p class="pt-4"><img src="../img/upload/people_11_1.jpg" class="img-fluid loading" alt="Rhys Meggy" /></p>
+            
+            
+            
+            <div class="pt-4"></div>
+        
+        </div>
+    </div>
+
+    <div class="col-12 col-md-7 offset-md-1 col-xl-6">
+    
+    	<div class="py-4 d-none d-md-block"></div>
+        
+        
+        <div class="row">
+        
+        	<div class="col-12 col-md-3 order-md-last">
+            <div class="reveal reveal-p-1 link nav-people">
+            <p><a href="/who-we-are-kathryn-arnot-drummond/"><i class="fa fa-angle-left"></i></a><a href="/who-we-are-john-kelsey-fry-kc/"><i class="fa fa-angle-right"></i></a></p>
+            </div>
+            </div>
+            
+            <div class="col-12 col-md-9 order-md-first">
+            <div class="reveal reveal-h3">
+            <h3 class="mb-3">Rhys Meggy - Called to the Bar - 2009</h3>
+            </div>
+            </div>
+        
+        </div>
+        
+        <div class="reveal reveal-p-1">
+        <p><em>&ldquo;He appears as a leader more than a junior, which is not very common.&nbsp; He holds his own against silks and comes out winning.&rdquo;&nbsp; (Chambers &amp; Partners, High Net Worth Guide 2023)</em></p>
+
+<p><em>&ldquo;A sought-after advocate and source of wise advice.&nbsp; An impressive orator, very clever, and knows exactly what to do.&nbsp; He is extremely easy to get along with and very sharp.&rdquo; (Chambers &amp; Partners, Financial Crime 2023)</em></p>
+
+<p><em>&ldquo;An exceptional barrister who never fails to deliver.&nbsp; He is well suited for serious fraud and complex cases. His ability to handle and steer his client through a difficult and serious business crime fraud over many weeks is impressive.&rdquo; (Legal 500, Business and Regulatory Crime 2023)</em></p>
+
+<p><em>&ldquo;a phenomenally-intelligent advocate, and extremely bright, tenacious and strategic in his approach.&rdquo; (Legal 500, Fraud: Crime 2023)</em></p>
+
+<p><strong>Winner: Legal 500 UK Financial Crime Junior of the Year 2022 </strong></p>
+
+<p>Accomplished and highly sought-after, Rhys Meggy&rsquo;s practice centres on defending allegations of criminality or regulatory impropriety on the part of professionals and corporates. He is equally highly-regarded in the sphere of general crime and related reputation management.</p>
+
+<p>Uncommonly, he has extensive practical experience and deep understanding of the intersection of the civil and criminal jurisdictions, and is as comfortable representing corporates as individuals</p>
+
+<p>Rhys is noted by both Chambers &amp; Partners and the Legal 500 for being as assured and effective <em>&ldquo;in the boardroom&rdquo;</em> as he is &ldquo;<em>before</em> <em>the senior judiciary or a jury&rdquo;</em>.&nbsp; Since early in his career he has been specifically recognised for his <em>&ldquo;strategic&rdquo;</em> and <em>&ldquo;commercially astute&rdquo;</em> approach to cases, as well as his<em> &ldquo;fine and balanced judgment&rdquo;</em>. &nbsp;He has long been instructed alone in serious matters, often appearing against and alongside silks.</p>
+
+<p>First and foremost - as also consistently recognised by the Directories - Rhys is a <em>&ldquo;commanding&rdquo; &ldquo;charismatic&rdquo;</em> and <em>&ldquo;tenacious&rdquo;</em> courtroom advocate with an <em>&ldquo;authentic&rdquo;</em>, <em>&ldquo;unflappable&rdquo; </em>and<em> &ldquo;fearless&rdquo;</em> approach.&nbsp; &nbsp;He prepares his cases with an assiduousness that has gained him a steady reputation as <em>&ldquo;a great lawyer &ndash; always meticulously prepared, creative and user-friendly&rdquo;</em>, with written work that is also <em>&ldquo;outstanding&rdquo;. &nbsp;&ldquo;Very easy to get along with&rdquo;</em> and <em>&ldquo;well-rounded&rdquo;</em>, his manner with clients has variously been described as <em>&ldquo;understanding, honest&rdquo; </em>and<em> &ldquo;calming&rdquo;</em> as well as <em>&ldquo;inspiring confidence&rdquo;</em></p>
+
+<p>In the commercial criminal sphere, Rhys&rsquo; expertise includes defending allegations of: bribery and corruption; large-scale fraud and false-accounting; tax evasion (both individual and corporate); insider dealing; breaches of the general prohibition under FMSA; anti-competitive behaviour; breaches of export controls; insolvency and company law offences; breaches of health and safety and environmental regulations; and money laundering.&nbsp; In addition to FCA, SFO, HMRC, CMA and IS work, Rhys has a particular niche in the defence of executives and corporates pursued by Companies House and the Office of National Statistics.</p>
+
+<p>His general criminal work covers the entire spectrum of offences, not least: murder and manslaughter (including corporate); large drugs conspiracies; sexual offences; false imprisonment; robbery; GBH; the importation of firearms; blackmail; perverting the course of justice; and misconduct in public office.&nbsp; Rhys is equally adept at defending people of good character in prosecutions of &lsquo;lesser&rsquo; offences with life-altering consequences in the magistrates&rsquo; court.&nbsp; He has represented many prominent people in worlds of entertainment, sport and business, often nipping cases in the bud pre-charge.&nbsp;&nbsp; &nbsp;&nbsp;</p>
+
+<p>Separately, Rhys has a well-established practice in the area of financial services regulation, appearing before both the FCA&rsquo;s Regulatory Decisions Committee and/or the Upper Tribunal for both individuals and firms in connection with allegations of misconduct or challenges to authorisation decisions.&nbsp;&nbsp; He also frequently advises parties to civil fraud litigation as to the criminal implications of the conduct at issue in their High Court / Commercial Court proceedings, both in the UK and offshore (not least in the BVI and Cayman).</p>
+
+<p>In the quasi-criminal sphere, Rhys has longstanding experience of advising on and/or appearing in: anonymity and/or reporting restriction applications; HMRC CoP8 and CoP9 tax investigations; HMRC compounding negotiations following from export finance breaches; judicial review and/or &lsquo;section 59 CJPA&rsquo; proceedings relating to the seizure and retention of evidence; account freezing order (AFO), cash detention and civil forfeiture proceedings; disputes concerning LPP and Independent Counsel reviews; and, licensing proceedings before both local authorities and the magistrates&rsquo; court.</p>
+
+<p>The depth and breadth of Rhys&rsquo; commercial awareness and operational business knowledge is influenced by his experiences outside his court practice.&nbsp; Prior to coming to the Bar in England &amp; Wales, Rhys worked at a law firm in the BVI, liquidating the feeder funds of Bernie Madoff&rsquo;s Ponzi scheme.&nbsp; Later, in 2015-2016, Rhys was seconded to advise a global investment bank in respect of a wide variety of financial crime issues affecting its day-to-day business, as well its own dealings with regulators in the context of bribery, money laundering and tax compliance investigations.</p>
+
+<p>Consequently, Rhys is regularly called upon to advise corporates on the adequacy/reasonableness of their systems and controls, having particular regard to the statutory defences available to allegations of failing to prevent bribery, or, failing to prevent the unlawful facilitation of tax evasion.&nbsp;&nbsp;</p>
+
+<p>&nbsp;&nbsp; <strong>Current and recent work in 2021-2023 includes</strong>:</p>
+
+<ul>
+	<li>Defending an individual prosecuted by the FCA on allegations of conspiracy to defraud and money laundering concerning a failed investment scheme over a 2-month trial (leading).&nbsp;</li>
+	<li>Defending two individuals prosecuted by the FCA on allegations of insider dealing over a 4-month trial (alone).</li>
+	<li>Defending a junior bank employee accused of market manipulation intended to harm a Middle Eastern state in FCA regulatory proceedings before the Upper Tribunal (alone).</li>
+	<li>Defending an IFA accused of misconduct relating to the collapse of the British Steel Pension Scheme in FCA regulatory proceedings before the RDC (alone).</li>
+	<li>Representing two HNWI in &lsquo;s.59 proceedings&rsquo; following the defeat of an HMRC criminal investigation into cheating the public revenue (alone).</li>
+	<li>Advising a Premier League football club subject to a civil investigation by HMRC (alone).</li>
+	<li>Defending a HNW Mayfair property developer acquitted of conspiracy to launder the proceeds of crime after a 2-week trial concerning his business with the United Arab Emirates (alone).&nbsp;</li>
+	<li>Defending an UNHW international property developer, defeating HMRC&rsquo;s allegations of cheating the public revenue through central management and control of offshore companies pre-charge (alone).&nbsp;</li>
+	<li>Advising an asset and wealth management firm in respect of the corporate offence of failing to prevent the unlawful facilitation of tax evasion (alone).</li>
+	<li>Defending the child of a former head of state, defeating an AFO application brought by the SFO in respect of suspicions of corruption and money laundering (alone).</li>
+	<li>Defending a multinational military vehicle manufacturer accused of breaching export controls, successfully mitigating what otherwise would have been the second-largest compound settlement ever imposed by HMRC (alone). &nbsp;</li>
+	<li>Defending an accountant implicated in the SFO&rsquo;s &lsquo;Serco&rsquo; prosecution, successfully obtaining anonymity for him in the trial that resulted in the acquittal of his co-defendants, after the discontinuance of his own prosecution (alone).&nbsp;</li>
+	<li>Representing a former professional footballer, defeating an AFO application brought by the NCA in respect of suspicions of fraud and money laundering in Saudi Arabia (alone).</li>
+	<li>Representing a Premier League football club suspected of cheating the public revenue, defeating HMRC&rsquo;s criminal investigation pre-charge (led)</li>
+	<li>Defending the CEO of a national engineering company accused of the bribery of a senior executive of Coca-Cola, defeating the prosecution pre-trial in light of disclosure failings (led).</li>
+	<li>Defending over two dozen separate prosecutions of directors brought by Companies House on allegations of accounting failures (alone).&nbsp;&nbsp;</li>
+	<li>Representing a prominent businessman subjected to blackmail, securing anonymity for him and his family in circumstances where those prosecuting his blackmailer had failed to do so (alone).</li>
+	<li>Representing an institutional cryptocurrency exchange in a successful challenge to the FCA&rsquo;s refusal to register the firm under the Money Laundering Regulations (led).&nbsp;</li>
+	<li>Defending a middle-aged man falsely accused of rape and false imprisonment, securing his acquittal upon exposing the complainant&rsquo;s history of making identically false allegations (alone).</li>
+	<li>Defending the architect of an international conspiracy to import Mach 10 machine-guns into the UK from the Neverlands (alone). &nbsp;</li>
+	<li>Defending a 15-year-old boy acquitted of a widely-reported murder at the Central Criminal Court (led).</li>
+	<li>Defending numerous lead defendants in various conspiracies to import/export/supply commercial quantities of Class A drugs (alone).</li>
+	<li>Defending numerous professional people prosecuted in the magistrates&rsquo; court for offences of domestic abuse, harassment, and other summary offences. &nbsp;</li>
+</ul>
+
+        </div>
+        
+        
+        <div class="reveal reveal-p-1">
+        <p class="link"><a href="/who-we-are-rhys-meggy.pdf" target="_blank" onclick="this.href=this.href+'?t=202306152138'">Download CV as a PDF</a></p>
+        </div>
+        
+
+        
+        <div class="reveal reveal-p-1">
+        <p class="link"><a href="/who-we-are-../privacy/">Read Rhys' Data Protection Privacy Notice</a></p>
+        </div>
+        
+        
+        <p class="pt-2">
+        
+        <img src="../img/rhys-meggy-fc22.jpg" class="img-fluid loading" alt="Rhys Meggy" style="max-height:150px; margin-top:5px;" />
+        
+        </p>
+        
+    
+    </div>
+
+</div>
+</div>
+
+
+<div class="py-5"></div>
+
+
+
+
+
+
+<script>
+
+var h1 = {
+duration: 1000,
+delay: 0,
+distance: '0',
+scale: 1
+}
+var h3 = {
+duration: 2000,
+delay: 500,
+distance: '20px',
+}
+
+var block1 = {
+duration: 2000,
+delay: 1000,
+distance: '20px'
+}
+
+
+window.sr = ScrollReveal({ reset: false, useDelay: 'onload' });
+
+function goWhenSafe() {
+sr.reveal(".reveal-h1", h1)
+sr.reveal(".reveal-h3", h3)
+sr.reveal(".reveal-p-1 p", block1, 200)
+sr.reveal(".reveal-p-1 ul", block1, 200)
+sr.reveal(".reveal-p-footer", block1, 100)
+}
+
+
+$(document).ready(function() {
+	//create top sticky
+	var sticky = new Waypoint.Sticky({
+		element: $('#sticker')[0],
+		stuckClass: 'stuck-top'
+	})
+});
+
+</script>
+
+
+
+</div>
+
+
+<div id="mt-footer" class="d-none d-md-block"></div>
+<div class="container footer" id="footer">
+<div class="txt-right d-none d-md-block reveal reveal-p-footer privacy">
+<p class="link mb-0"><a href="/who-we-are-../privacy/">Data Protection Privacy Notice</a> | <a href="/who-we-are-../cookie-policy/">Cookie Policy</a></p>
+</div>
+<div class="pt-2"></div>
+</div>
+
+
+
+</body>
+
+<!-- Mirrored from www.clothfairchambers.com/who-we-are-rhys-meggy by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 15 Jun 2023 20:56:33 GMT -->
+</html>
